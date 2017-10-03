@@ -43,7 +43,7 @@ body, html{
 	padding: 50% 0;
 	text-align: center;
 	color: #fff;
-	font-size: 30px;
+	font-size: 40px;
 	text-transform: uppercase;
 	letter-spacing: 2px;
 	line-height: 0;
@@ -54,7 +54,7 @@ body, html{
 
 
 
-.panels div.front{
+.panels div.tile{
 	position: relative;
 	background-color: #424242;
 }
